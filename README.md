@@ -39,6 +39,42 @@ As a **signal processing enthusiast**, I built the **entire MFCC feature extract
 This contribution laid the **foundation of the project**, ensuring robust and accurate features before machine learning modeling.
 
 ---
+## Simulated images of Each stage of MFCC pipeline
+### 1. Audio Plot
+![Audio Plot](Images_My_Contribution/Audio_file.png)
+
+### 2. Framing
+![512 length Framing](Images_My_Contribution/Devide_into_512_length_frames.png)
+
+### 3. Frame Windowing
+![Windowing](Images_My_Contribution/Get_512_frame_and_windowing.png)
+![Summery](Images_My_Contribution/Summery.png)
+
+### 4. Applying FFT for windows ( one frame visualization )
+![FFT](Images_My_Contribution/Get_FFT_for_Each_window.png)
+
+### 5. Get Absolute Values of FFT
+![Abs FFT](Images_My_Contribution/Get_absoluti_fft.png)
+
+### 6. FFT Power stectrum ( one frame Visualization  )
+![Power FFT](Images_My_Contribution/FFT_Power_spectrum_for_one_frame.png)
+
+### 7. Melbank Filters
+![Mel filters](Images_My_Contribution/MelBank_Filters.png)
+
+### 8. Mel Filtered FFT ( one frame Visualization )
+![Mel FFT](Images_My_Contribution/Mel_Bank_filtered_FFT.png)
+
+### 9. Correlation Matrix of Mel filtered FFT 
+![Correlation Matrix](Images_My_Contribution/Get_correlation_of_Melbank_filtered_FFT.png)
+
+### 10. MFCC Matrix ( For Example Voice )
+![MFCC Matrix](Images_My_Contribution/MFCC_matrix.png)
+
+### 11. MFCC Colorbar  ( For Example Voice )
+![Colorbar](Images_My_Contribution/MFCC_Coefficients.png)
+
+---
 
 ## Development Phases
 
