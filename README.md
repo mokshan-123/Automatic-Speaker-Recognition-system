@@ -7,6 +7,7 @@ It combines **signal processing (MFCC feature extraction in MATLAB)** with **mac
 ---
 
 ## System Architecture
+'''
 Audio (.wav)
 ↓
 [MATLAB – MFCC from scratch]
@@ -21,3 +22,4 @@ Exported .mat files
 Train UBM → MAP Adapt → Score via log-likelihood ratios
 ↓
 Predicted speaker + confidence %
+'''
