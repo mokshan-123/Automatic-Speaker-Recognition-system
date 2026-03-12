@@ -50,7 +50,7 @@ This contribution laid the **foundation of the project**, ensuring robust and ac
 ![Windowing](Images_My_Contribution/Get_512_frame_and_windowing.png)
 ![Summery](Images_My_Contribution/Summery.png)
 
-### 4. Applying FFT for windows ( one frame visualization )
+### 4. Applying FFT for windows
 ![FFT](Images_My_Contribution/Get_FFT_for_Each_window.png)
 
 ### 5. Get Absolute Values of FFT
