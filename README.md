@@ -7,19 +7,19 @@ It combines **signal processing (MFCC feature extraction in MATLAB)** with **mac
 ---
 
 ## System Architecture
-'''
+
+```text
 Audio (.wav)
-↓
+    ↓
 [MATLAB – MFCC from scratch]
-preemphasis → framing → windowing → FFT → mel filterbank
-→ log compression → DCT → delta computation
-↓
+    preemphasis → framing → windowing → FFT → mel filterbank
+    → log compression → DCT → delta computation
+    ↓
 39-dim features per frame (13 MFCC + 13 Δ + 13 ΔΔ)
-↓
+    ↓
 Exported .mat files
-↓
+    ↓
 [Python – GMM-UBM Engine]
-Train UBM → MAP Adapt → Score via log-likelihood ratios
-↓
+    Train UBM → MAP Adapt → Score via log-likelihood ratios
+    ↓
 Predicted speaker + confidence %
-'''
