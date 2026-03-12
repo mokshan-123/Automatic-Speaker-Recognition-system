@@ -143,7 +143,9 @@ These files form the **core MFCC pipeline** that powers the system.
 - Davis & Mermelstein, *Comparison of Parametric Representations for Word Recognition*, IEEE, 1980.  
 - Gauvain & Lee, *Maximum a Posteriori Estimation for GMMs*, IEEE, 1994.
 
-##Contributors
+--- 
+
+## Contributors
 -Mokshan Colombage (me)
 -Heshan Ranasinghe (github.com/DPHeshanRanasinghe)
 -Abdul Rahman(github.com/Abdul-Rahman-bme)
