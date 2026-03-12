@@ -120,8 +120,8 @@ Then we can train a model with those MFCCs.
 
 ---
 
-## File Contributions (MATLAB Signal Processing)
-Screenshot of my implemented functions:
+## My Contributions (MATLAB Signal Processing)
+my implemented functions:
 - `preemphasis.m`  
 - `apply_window.m`  
 - `myFFT.m`, `myFFT_2.m`  
@@ -142,3 +142,8 @@ These files form the **core MFCC pipeline** that powers the system.
 - Reynolds et al., *Speaker Verification Using Adapted Gaussian Mixture Models*, DSP, 2000.  
 - Davis & Mermelstein, *Comparison of Parametric Representations for Word Recognition*, IEEE, 1980.  
 - Gauvain & Lee, *Maximum a Posteriori Estimation for GMMs*, IEEE, 1994.
+
+##Contributors
+-Mokshan Colombage (me)
+-Heshan Ranasinghe (github.com/DPHeshanRanasinghe)
+-Abdul Rahman(github.com/Abdul-Rahman-bme)
