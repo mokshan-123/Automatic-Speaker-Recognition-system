@@ -74,6 +74,10 @@ This contribution laid the **foundation of the project**, ensuring robust and ac
 ### 11. MFCC Colorbar  ( For Example Voice )
 ![Colorbar](Images_My_Contribution/MFCC_Coefficients.png)
 
+
+This is the signal processing and feature extraction pipeline.
+we have to send all the voices through this pipeline and get the MFCC coefficients.
+Then we can train a model with those MFCCs.
 ---
 
 ## Development Phases
