@@ -146,6 +146,6 @@ These files form the **core MFCC pipeline** that powers the system.
 --- 
 
 ## Contributors
--Mokshan Colombage (me)
--Heshan Ranasinghe (github.com/DPHeshanRanasinghe)
--Abdul Rahman(github.com/Abdul-Rahman-bme)
+- Mokshan Colombage (me).
+- Heshan Ranasinghe (github.com/DPHeshanRanasinghe).
+- Abdul Rahman(github.com/Abdul-Rahman-bme).
